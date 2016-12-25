@@ -1,5 +1,5 @@
 module ShipUps
-	class Shared
+	class Common
          def self.domain
 
             development = "wwwcie.ups.com"

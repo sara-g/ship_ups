@@ -1,7 +1,7 @@
 require "ship_ups/version"
 require 'active_support/all'
 require 'rest-client'
-require 'ship_ups/shared'
+require 'ship_ups/common'
 require 'ship_ups/credentials'
 require 'ship_ups/shipper'
 require 'ship_ups/ship_to'
