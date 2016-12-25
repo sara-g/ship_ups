@@ -5,7 +5,7 @@ module ShipUps
             development = "wwwcie.ups.com"
             production = "onlinetools.ups.com"
 
-            return development
+            return production
          end
 
          def self.template_to_hash(template,root="ShipmentConfirmRequest")
