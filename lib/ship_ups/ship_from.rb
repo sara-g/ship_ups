@@ -35,3 +35,4 @@ module ShipUps
 	      </ShipFrom>'
 		end
 	end
+end
