@@ -11,7 +11,6 @@ Gem::Specification.new do |spec|
 
   spec.summary       = "UPS Tracking and Shipping"
   spec.description   = "Tracking, Time In Transit, Shipping, Returns, Etc"
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
